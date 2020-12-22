@@ -4,9 +4,6 @@ Website provides interface for collecting student's evaluations and displays sta
 
 ## Installing and Running
 
-TEST
-
-
 ### Building from the repo
 
 Project can be built from cloned repository using following command:
